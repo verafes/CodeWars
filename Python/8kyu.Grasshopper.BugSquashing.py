@@ -12,7 +12,8 @@
 # - `roll_dice`
 # - `move`
 
-# Given
+# Given:
+
 health = 100
 position = 0
 coins = 0
@@ -26,7 +27,7 @@ def (main):
   attack()
 
 
-# Solution
+# Solution:
 
 def main():
     roll_dice()

@@ -1,6 +1,6 @@
 // Solutions in JavaScript
 
-// 8kyu - Formatting decimal places #1
+// 7kyu - Formatting decimal places #1
 
 https://www.codewars.com/kata/formatting-decimal-places-number-1
 

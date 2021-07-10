@@ -1,6 +1,6 @@
 // Solutions in JavaScript
 
-// 8kyu - How many times should I go?
+// 7kyu - How many times should I go?
 
 https://www.codewars.com/kata/57efcb78e77282f4790003d8
 

@@ -1,6 +1,6 @@
 // Solutions in JavaScript
 
-// 8kyu - Return the closest number multiple of 10
+// 7kyu - Return the closest number multiple of 10
 
 https://www.codewars.com/kata/return-the-closest-number-multiple-of-10
 

@@ -1,6 +1,6 @@
 // Solutions in JavaScript
 
-// 8kyu - Find the Square Root
+// 7kyu - Find the Square Root
 
 https://www.codewars.com/kata/56426b4e971f01fd2f00005b
 

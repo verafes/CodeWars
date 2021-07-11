@@ -1,6 +1,6 @@
 # Solutions in Python
 
-# 7kyu - Debug the functions EASY 
+# 7kyu - Debug the functions EASY
 
 https://www.codewars.com/kata/5844a422cbd2279a0c000281/ 
 

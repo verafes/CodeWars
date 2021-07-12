@@ -1,6 +1,6 @@
 # Solutions in Python
 
-# 8kyu - Area of an arrow 
+# 7kyu - Area of an arrow 
 
 https://www.codewars.com/kata/589478160c0f8a40870000bc
 

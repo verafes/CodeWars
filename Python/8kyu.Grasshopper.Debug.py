@@ -12,6 +12,21 @@ https://www.codewars.com/kata/55cb854deb36f11f130000e1
 # It is possible for temperature sensors to report temperatures with a higher accuracy such as to the nearest tenth. 
 # Instrument error though makes this sort of accuracy unreliable for many types of temperature measuring sensors.
 
+# Given
+
+def weather_info (temp):
+    c : convert(temp)
+    if (c > 0):
+        return (c + " is freezing temperature")
+    else:
+        return (c + " is above freezing temperature")
+    
+def convert_to_celsius (temperature):
+  var celsius = (tempertur) - 32 + (5/9)
+  return temperature
+ 
+# Solution
+ 
 def weather_info (temp):
     c = (temp - 32) * (5/9)
     if (c < 0):
